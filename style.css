@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Roboto+Slab:wght@100&family=Roboto:wght@100&display=swap');
+
+
 body{
     background-color: #efebce;
     margin: 0;
@@ -70,4 +73,11 @@ color: antiquewhite;
 .botao:hover {
     
     background-color: #a3a380;
+}
+
+.fontes{
+    font-family: 'Caveat', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+
 }
