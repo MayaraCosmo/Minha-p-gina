@@ -1,0 +1,73 @@
+body{
+    background-color: #efebce;
+    margin: 0;
+    padding: 0;
+}
+
+.pai{
+    display: flex;
+}
+
+#nome {
+   
+    margin: 2%;
+    background-color: #d6ce93;
+    padding: 20px;
+    border-radius: 20%;
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+}
+
+.informacoes {
+    background-color: #d8a48f;
+    margin: 2%;
+    padding: 20px;
+    border-radius: 10%;
+}
+
+#foto {
+   
+    margin: 2%;
+    background-color: #a3a380;
+    padding: 20px;
+    border-radius: 20%;
+
+}
+
+.box {
+    background-color: #bb8588;
+    margin-left: 35vw;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10vh;
+    border-radius: 10%;
+
+}
+
+.input {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.login {
+padding: 5%;
+color: antiquewhite;
+
+}
+
+.botao {
+    border-radius: 10%;
+    border: none;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+.botao:hover {
+    
+    background-color: #a3a380;
+}
